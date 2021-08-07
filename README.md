@@ -3,9 +3,6 @@ DEPORTES
 
 Las noticias mas recientes en el mundo del deporte
 
-Las noticias mas recientes en el mundo del deporte.
-main
-
 #BEISBOL
 
 El legendario lanzador de los Astros de Houston muere a los 71 años, sin duda es una perdida muy dolorosa para el deporte 
