@@ -13,7 +13,7 @@ ya que era uno de los iconos de la franquicia. Lastimosamente murio por un derra
 El Manchester City anunció este jueves el fichaje del centrocampista del Aston Villa Jack Grealish, 
 que firmará por las próximas seis temporadas tras un desembolso cercano a los 100 millones de euros.
 
-#Natación 
+#NATACIÓN
 
 ##Natación en Colombia 
 
