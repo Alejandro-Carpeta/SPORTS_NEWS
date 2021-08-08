@@ -13,6 +13,11 @@ ya que era uno de los iconos de la franquicia. Lastimosamente murio por un derra
 El Manchester City anunció este jueves el fichaje del centrocampista del Aston Villa Jack Grealish, 
 que firmará por las próximas seis temporadas tras un desembolso cercano a los 100 millones de euros.
 
+#ATLETISMO
+
+ El favorito keniano Eliud Kipchoge, plusmarquista mundial, revalidó su título olímpico en el maratón,
+este domingo en Sapporo, en el inicio del día de la clausura de los Juegos de Tokio.
+
 #TENNIS
 
 Lloyd Harris lo hizo. Cuando casi nadie lo esperaba, obtuvo la mayor victoria de su carrera el jueves por la noche,
@@ -49,3 +54,5 @@ La tabla de paises según el número de medallas doradas obtenidas va de la sigu
 2: Australia:     9
 3: Gran Bretaña   4
 4: China          3
+
+Estas son las ultimas noticias en relacion al deporte mundial, gracias por leernos
